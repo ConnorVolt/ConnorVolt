@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ConnorVolt
+- 👀 I’m interested in C#, Python, PHP, AI and ML, Cybersecurity
+- 🌱 I’m currently learning ASP.NET
